@@ -17,9 +17,6 @@ These files have been tested and used to generate a live ELK deployment on Azure
 
   - : Enter the playbook file._
 
-  - Installing-elk.yml
-  - filebeat-playbook.yml
-  - metricbeat-playbook.yml
 
 [This is where i have saved my playbooks](https://github.com/kalamfa/Project-1/tree/main/Ansible)
 
