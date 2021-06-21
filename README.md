@@ -119,7 +119,7 @@ A summary of the access policies in place can be found in the table below.
 
 
 
-### Elk Configuration
+### ELK Configuration
 
 Ansible was used to automate configuration of the ELK machine. No configuration was performed manually, which is advantageous because...
 
