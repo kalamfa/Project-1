@@ -165,7 +165,7 @@ The following screenshot displays the result of running `docker ps` after succes
 
 
 
-Update the path with the name of your screenshot of docker ps output](Images/docker_ps_output.png)
+![Docker](https://user-images.githubusercontent.com/80591401/122715237-97190b80-d236-11eb-9357-c5399d89b489.png)
 
 
 CONTAINER ID   IMAGE          COMMAND                  CREATED      STATUS      PORTS                                                                              NAMES
