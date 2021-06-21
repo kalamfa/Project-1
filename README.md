@@ -9,6 +9,7 @@ The files in this repository were used to configure the network depicted below.
 
 Name of file: 
 Project 1 - Network Diagram.png
+![Project_Diagram](https://user-images.githubusercontent.com/80591401/122711100-9f217d00-d22f-11eb-8507-b1b1cfb1b754.png)
 
 
 
